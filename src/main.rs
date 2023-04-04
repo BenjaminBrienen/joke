@@ -1,6 +1,3 @@
-#![feature(slice_group_by)]
-#![feature(never_type)]
-
 const QUESTIONS_MAX_ALLOWED: usize = 4;
 
 fn main()
